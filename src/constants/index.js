@@ -117,7 +117,7 @@ const technologies = [
 const experiences = [
   {
     title: 'Web Developer',
-    company_name: 'Mayer PLC',
+    company_name: 'Freelancer',
     icon: starbucks,
     iconBg: '#383E56',
     date: 'April 2016 - June 2020',
@@ -129,7 +129,7 @@ const experiences = [
   },
   {
     title: 'Frontend Developer',
-    company_name: 'Gerlach and Sons',
+    company_name: 'Freelancer',
     icon: tesla,
     iconBg: '#E6DEDD',
     date: 'June 2020 - April 2023',
@@ -142,7 +142,7 @@ const experiences = [
   },
   {
     title: 'Senior Full Stack Developer',
-    company_name: 'Berge-Hermiston',
+    company_name: 'Freelancer',
     icon: shopify,
     iconBg: '#383E56',
     date: 'April 2023 - Present',
